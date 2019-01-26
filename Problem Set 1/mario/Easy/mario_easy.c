@@ -41,5 +41,5 @@ int main() {
   do {
     heigth = get_int("Height: ");
   } while (heigth < 1 || heigth > 8);
-  Show_Sol(heigth);
+  Mario_Show(heigth);
 }
