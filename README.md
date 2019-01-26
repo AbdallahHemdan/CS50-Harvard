@@ -1,11 +1,12 @@
-CS50 — 2019 solutions
+✔ CS50 — 2019 solutions 
 =====================
 
-Go ahead and take a peek at the solutions.
-## Link Of The Course :
+#### Go ahead and fell free To Use This Solutions 
+#### Let Me Know if You Find Something Wrong in The Solution
+## 🔗 Link Of The Course :
 ## https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x
 
-## Table of Contents
+## 📝 Table of Contents 
 
 - [pset1](/pset1)
   * [hello](/pset1/hello)
